@@ -1,31 +1,31 @@
 # LockStream
 Build On Stellar Bootcamp - Yozgat Bozok Üniversitesi
 
-# LockStream – Blockchain-Based Digital Wills
+# Digital Will – Blockchain-Based Digital Wills
 
-LockStream allows users to securely store and transfer digital assets, passwords, and personal wills using blockchain technology.
+Digital Will allows users to securely store and transfer digital assets, passwords, and personal wills using blockchain technology.
 
 ---
 
 ## Features
 
-- **Secure Asset Storage:** Store digital assets safely on the blockchain.
-- **Beneficiary Management:** Assign beneficiaries and manage asset access.
-- **Automated Transfers:** Schedule automatic transfers triggered by time or events.
-- **Privacy & Security:** Encrypted, immutable, and transparent transactions.
+- **Secure Asset Storage:** Safely store digital assets on the blockchain.  
+- **Beneficiary Management:** Assign beneficiaries and manage access.  
+- **Automated Transfers:** Schedule automatic transfers triggered by time or events.  
+- **Privacy & Security:** Encrypted, immutable, and transparent transactions.  
 - **User-Friendly Interface:** Simple web/mobile dashboard for asset management.
 
 ---
 
 ## Project Details
 
-LockStream is a blockchain-based platform that allows users to securely transfer digital assets, passwords, or wills to loved ones. Using Soroban smart contracts, users can assign beneficiaries, define conditions for asset release, and automate transfers without relying on lawyers. Every action is transparent, immutable, and private, ensuring peace of mind in the digital age. LockStream transforms digital inheritance from a complex, bureaucratic process into a simple, automated, and trustworthy solution.
+Digital Will is a blockchain-based platform that enables users to securely transfer digital assets, passwords, or wills to loved ones. Using Soroban smart contracts, users can assign beneficiaries, set conditions for asset release, and automate transfers without relying on lawyers. Every action is transparent, immutable, and private. Digital Will transforms digital inheritance from a complex, bureaucratic process into a simple, automated, and trustworthy solution.
 
 ---
 
 ## Vision
 
-Our vision is to make digital inheritance simple, secure, and accessible. By leveraging blockchain technology, LockStream removes bureaucracy and ensures that digital assets reach the intended recipients automatically. The platform empowers people to protect their digital legacy—including cryptocurrencies, personal data, and important documents—giving peace of mind and redefining how digital estate management works globally.
+Our vision is to make digital inheritance simple, secure, and accessible. By leveraging blockchain technology, Digital Will removes bureaucracy and ensures that digital assets reach the intended recipients automatically. The platform empowers people to protect their digital legacy—including cryptocurrencies, personal data, and important documents—providing peace of mind and redefining digital estate management globally.
 
 ---
 
@@ -44,5 +44,4 @@ Our vision is to make digital inheritance simple, secure, and accessible. By lev
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/lockstream.git
-
+git clone https://github.com/yourusername/digital-will.git
